@@ -24,7 +24,7 @@ Incredulous, I snapped a screenshot and shared it on my IG's story, captioned wi
 
 ![](assets/img-chat_about_the_idea.jpg)
 
-[@singhana](https://github.com/singhanat) : "With 40KB, even making an ASCII art of your own face would be a challenge."
+[@singhanat](https://github.com/singhanat) : "With 40KB, even making an ASCII art of your own face would be a challenge."
 
 > "...with that size, they probably want an ASCII art of your face."
 

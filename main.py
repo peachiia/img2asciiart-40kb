@@ -31,8 +31,8 @@ def calc_imgSize_from_targetSizeLimit(img_origin):
     
 
 
-def get_grayscaleImage_resized(img, width_target, height_target):
-    img = img.resize((width_target, height_target))
+def get_grayscaleImage_resized(img, target_width, target_height):
+    img = img.resize((target_width, target_height))
     img = img.convert('L') # convert to grayscale
     return img
    
